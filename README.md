@@ -28,8 +28,19 @@ Welcome to Contribute! Fork the repository, create a new branch, and submit a pu
 ## Tests
 Test the application using jest.
 
-## Wallkthrough Video
+## Walkthrough Video
 Watch the walkthrough video to see the application in action: [Watch Video](https://app.screencastify.com/v3/watch/HNcvnJrKt22Feong5Oa3)
+
+## Screenshots
+
+### Example Logo
+<img src="images/ANN logo.png" width="800px">
+
+### Logo Creation Prompts
+<img src="images/terminal prompts.png" width="800px">
+
+### Shape Test Results
+<img src="images/test results.png" width="800px">
 
 ## Questions
 If you have any questions, you can reach me at [annhargrove21@gmail.com](mailto:annhargrove21@gmail.com). You can also find more of my work at [agrove21](https://github.com/agrove21).
